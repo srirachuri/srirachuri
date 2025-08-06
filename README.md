@@ -1,9 +1,9 @@
 Sri Gayathri Rachuri
-BCA Student | Cloud Security Learner | Future Secure Cloud Architect*
+BCA Student | Cloud Security Learner | Future Secure Cloud Engineer*
 
 About Me
 - Learning C, Python, and Web Programming
-- Passionate about cloud security and ethical tech
+- Passionate about cloud security and ethical technology
 - Restarted my journey after a gap — now building real skills!
 - From Andhra Pradesh, India — dreaming of working globally!
 
