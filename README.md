@@ -1,16 +1,24 @@
-## Hi there 👋
+Sri Gayathri Rachuri
+BCA Student | Cloud Security Learner | Future Secure Cloud Architect*
 
-<!--
-**srirachuri/srirachuri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+- Learning C, Python, and Web Programming
+- Passionate about cloud security and ethical tech
+- Restarted my journey after a gap — now building real skills!
+- From Andhra Pradesh, India — dreaming of working globally!
 
-Here are some ideas to get you started:
+Learning Goals
+- Build secure cloud projects using AWS and open-source tools
+- Understand IAM, encryption, logging, and threat detection
+- Move abroad in 2027 as a Cloud Security Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ Currently Working On
+- Python mini projects for cloud security
+- Real-world C programs (log parser, email validator, etc.)
+- GitHub portfolio for my learning journey
+
+Contact
+- Email: ssrigayathrirachuri1@gmail.com
+- Portfolio Website: 
+
+*“Every step I take now is for a peaceful, independent, and secure future.”* ✨
