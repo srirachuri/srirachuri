@@ -18,7 +18,7 @@ Learning Goals
 - GitHub portfolio for my learning journey
 
 Contact
-- Email: ssrigayathrirachuri1@gmail.com
+- Email: srigayathrirachuri1@gmail.com
 - Portfolio Website: 
 
 *“Every step I take now is for a peaceful, independent, and secure future.”* ✨
